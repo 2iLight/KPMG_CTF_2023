@@ -13,7 +13,7 @@ Lfi wruuvivmgrzgrlm rh wvirevw uiln z izkrw kviulinzmxv-yzhvw, rmwfhgib-gzrolivw
 
 ## Procedure
 
-The given cipher is **Atbash Cypher** , we can decipher it using [CyberChef](https://gchq.github.io/CyberChef/).
+The given cipher is **Atbash Cypher** , we can decipher it using [CyberChef]( https://gchq.github.io/CyberChef/#recipe=Atbash_Cipher() ).
 
 Deciphered text:
 
